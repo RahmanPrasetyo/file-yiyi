@@ -1,0 +1,20 @@
+[2022-03-04 07:19:05]品牌:realme
+设备名称:RE50C1
+型号:RMX2103
+版本号:RMX2103_11_C.09
+PRODUCT:RMX2103T2
+ID:RKQ1.201217.002
+HARDWARE:qcom
+BRAND:realme
+BOARD:bengal
+FINGERPRINT:realme/RMX2103T2/RE50C1:11/RKQ1.201217.002/1634943128131:user/release-keys
+处理器:[AArch64 Processor rev 2 (aarch64) , 0]
+运行内存:4,84 GB
+手机存储: 可用空间:40,70 GB,总容量:117 GB,已使用空间:76,17 GB
+分辨率:720*1441
+android版本:30
+RELEASE:11
+BASE_OS:
+CODENAME:REL
+app版本:1.1.94
+VersionCode:121[]
